@@ -5,7 +5,6 @@
   <img src="https://img.shields.io/badge/LLM-Groq%20LLaMA3%2070B-orange" />
   <img src="https://img.shields.io/badge/Embeddings-HuggingFace-red" />
   <img src="https://img.shields.io/badge/VectorDB-ChromaDB-green" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow" />
 </p>
 
 > Retrieval-Augmented Generation system that answers questions from a PDF using LangChain, HuggingFace Embeddings, ChromaDB, and Groq’s blazing-fast LLaMA3 70B model.
